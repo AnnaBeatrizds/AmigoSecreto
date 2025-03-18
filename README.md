@@ -15,7 +15,7 @@ O **Amigo Secreto** é uma aplicação simples e interativa que permite adiciona
 - JavaScript
 
 ## Como Usar
-1. Acesse o site através do GitHub Pages: [Clique aqui](https://github.com/AnnaBeatrizds/AmigoSecreto/)
+1. Acesse o site através do GitHub Pages: [Clique aqui](https://annabeatrizds.github.io/AmigoSecreto/)
 2. Digite um nome no campo de entrada e clique em "Adicionar".
 3. Após adicionar todos os participantes, clique em "Sortear amigo" para selecionar aleatoriamente um nome.
 
