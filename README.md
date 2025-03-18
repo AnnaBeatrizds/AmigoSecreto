@@ -27,3 +27,6 @@ O **Amigo Secreto** é uma aplicação simples e interativa que permite adiciona
  ├── 📄 app.js          # Lógica do sorteio
  ├── 📂 assets          # Imagens e ícones
 ```
+
+![image](https://github.com/user-attachments/assets/7049d43d-e60d-4af2-869f-748c99285a89)
+
